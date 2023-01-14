@@ -1,0 +1,92 @@
+{
+    "modules": {
+        "metadata": {
+            "removeServerIntegration": true,
+            "removePinnedServers": true,
+            "removeModSettings": true,
+            "removeClientSettings": true,
+            "removeBlogPosts": false,
+            "isEnabled": true
+        },
+        "discordRichPresence": {
+            "clientID": "1063937375673270312",
+            "icon": "logo",
+            "iconText": "NixzClient",
+            "afkText": "AFK",
+            "menuText": "In Menu",
+            "singlePlayerText": "Playing Singleplayer",
+            "displayActivity": true,
+            "showServerIP": true,
+            "showIcon": true,
+            "isEnabled": true
+        },
+        "privacy": {
+            "isEnabled": true
+        },
+        "removeFakeLevelHead": {
+            "isEnabled": false
+        },
+        "capeSystem": {
+            "serverURL": "http://s.optifine.net",
+            "isEnabled": true
+        },
+        "changeModStrings": {
+            "nickhiderText": "You",
+            "fpsText": "FPS",
+            "cpsText": "CPS",
+            "autoGGCommand": "/ac gg",
+            "levelHeadText": "Level",
+            "reachText": "blocks",
+            "isEnabled": false
+        },
+        "windowTitle": {
+            "title": "NixzClient (Lunar Private Server)",
+            "showVersion": false,
+            "isEnabled": true
+        },
+        "websocketURL": {
+            "url": "ws://168.119.12.103:1337/connect",
+            "isEnabled": true
+        },
+        "lunarOverlays": {
+            "isEnabled": false
+        },
+        "clothCapes": {
+            "isEnabled": false
+        },
+        "hurtCamShake": {
+            "multiplier": 0.3,
+            "isEnabled": false
+        },
+        "removeMousePopup": {
+            "isEnabled": false
+        },
+        "removeProfilesCap": {
+            "isEnabled": false
+        },
+        "toggleSprintText": {
+            "flyingText": "Flying",
+            "flyingBoostText": "Boost",
+            "ridingText": "Riding",
+            "descendingText": "Descending",
+            "dismountingText": "Dismounting",
+            "sneakingText": "Sneaking",
+            "toggledText": "Toggled",
+            "sprintingText": "Sprinting",
+            "isEnabled": false
+        },
+        "allowCrackedAccounts": {
+            "crackedUsername": "Steve",
+            "isEnabled": false
+        },
+        "fpsSpoof": {
+            "multiplier": 1.0,
+            "isEnabled": false
+        }
+    },
+    "customCommands": {
+        "commands": {
+        }
+    },
+    "debugPackets": false
+}
