@@ -1,0 +1,15 @@
+{
+    "modules": {
+        "allowCrackedAccounts": {
+            "options": {
+                "crackedUsername": {
+                    "type": "STRING",
+                    "displayName": "Cracked Username",
+                    "description": "Set this field to the username you want"
+                }
+            },
+            "displayName": "Allow Cracked Accounts",
+            "description": "Allows you to use cracked/offline Minecraft accounts on Lunar Client (remove all premium accounts to use)"
+        }
+    }
+}
